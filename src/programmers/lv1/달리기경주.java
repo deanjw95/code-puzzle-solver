@@ -3,7 +3,7 @@ import java.util.*;
 
 public class 달리기경주 {
 
-    class Solution {
+    static class Solution {
         public String[] solution(String[] players, String[] callings) {
             ArrayList<String> playerList = new ArrayList<>(Arrays.asList(players));
             ArrayList<String> callingList = new ArrayList<>(Arrays.asList(callings));
@@ -17,7 +17,7 @@ public class 달리기경주 {
         }
     }
 
-    class Solution2 {
+    static class Solution2 {
         public String[] solution(String[] players, String[] callings) {
             int n = players.length;
             HashMap<String, Integer> indexMap = new HashMap<>();
