@@ -3,7 +3,7 @@ package programmers.lv1;
 import java.util.HashMap;
 import java.util.Map;
 
-public class 푸드파이트대회 {
+public class 바탕화면정리 {
 
     class Solution {
         public int[] solution(String[] wallpaper) {
