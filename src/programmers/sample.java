@@ -1,4 +1,4 @@
-package src.programmers.lv2;
+package src.programmers;
 
 public class sample {
 
